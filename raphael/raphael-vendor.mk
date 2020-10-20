@@ -155,7 +155,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/raphael/proprietary/media/audio/ui/popup_lightsaber_down.ogg:$(TARGET_COPY_OUT_SYSTEM)/media/audio/ui/popup_lightsaber_down.ogg \
     vendor/xiaomi/raphael/proprietary/media/audio/ui/popup_lightsaber_up.ogg:$(TARGET_COPY_OUT_SYSTEM)/media/audio/ui/popup_lightsaber_up.ogg \
     vendor/xiaomi/raphael/proprietary/media/audio/ui/popup_imperial_march_down.ogg:$(TARGET_COPY_OUT_SYSTEM)/media/audio/ui/popup_imperial_march_down.ogg \
-    vendor/xiaomi/raphael/proprietary/media/audio/ui/popup_imperial_march_up.ogg:$(TARGET_COPY_OUT_SYSTEM)/media/audio/ui/popup_imperial_march_up.ogg 
+    vendor/xiaomi/raphael/proprietary/media/audio/ui/popup_imperial_march_up.ogg:$(TARGET_COPY_OUT_SYSTEM)/media/audio/ui/popup_imperial_march_up.ogg \
+    vendor/xiaomi/raphael/proprietary/media/audio/ui/popup_super_mario_down.ogg:$(TARGET_COPY_OUT_SYSTEM)/media/audio/ui/popup_super_mario_down.ogg \
+    vendor/xiaomi/raphael/proprietary/media/audio/ui/popup_super_mario_up.ogg:$(TARGET_COPY_OUT_SYSTEM)/media/audio/ui/popup_super_mario_up.ogg 
 
 PRODUCT_PACKAGES += \
     SoterService \
